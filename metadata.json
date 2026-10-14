@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Tiempo y Disciplina",
+  "description": "Aplicación móvil y web para la gestión del tiempo, disciplina stoica y autogestión cognitiva con simulador y blueprint de arquitectura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
